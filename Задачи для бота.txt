@@ -1,0 +1,12 @@
+Название для Бота - Safety_team_bot   в телеграме
+
+1 Бот начинает "одноразово" отвечать на сообщения в группе всем кроме сотрудников (Safety team 21 человек + с учетом что команда расширяется) 
+
+2 Бот работает пн-пт с 01:00 до 16:00 по киевскому времени + Суббота/Воскресенье full time
+
+3 В будние дни пн-пт с 01:00 до 16:00 бот отвечает: As our hours of operation 8AM - 5PM central time we are no longer by computer, please leave your message and we will assist you tomorrow. 
+
+4 На выходных бот отвечает в группу Our hours of operation are Monday through Friday 8AM - 5PM central time. We address accidents questions over the weekend only.
+
+Условия - 1 Бот отвечает на 1 приходящее сообщение (не на каждое)
+         
